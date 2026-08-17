@@ -2,7 +2,7 @@
 
 import socket, sys
 
-print ("==== ROOSTER SEC =====")
+print ("==== ROOSTER ===")
 print ("Portscaning em Python")
 print ("======  1.0 VERSION ==========")
 
