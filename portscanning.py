@@ -17,4 +17,4 @@ for porta in portas_totais:
         print (" Porta ", porta, "ABERTA! [*] ")
     meusocket.close()
     
-    ## OBRIGADO POR TER LIDO MEU SCRIPT NO GIT HUB (=
+    ## OBRIGADO POR TER LIDO MEU SCRIPT NO GIT HUb
